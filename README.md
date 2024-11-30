@@ -19,15 +19,20 @@ Your final project website should accomplish these two objectives:
 
 Your final project site is required to contain the following elements:
 
-* A high level summary description of the project’s objectives.
-* A system diagram depicting the schematic relationships between all of the different subsystems comprising your final system.
-* An account of how you spent your $250 budget. You must include all components and materials and their estimated costs (even if you obtained them for free somehow). Please note where something was obtained for free and cost is just your best estimate.
-* A detailed description of electrical design (circuit diagrams are appropriate) and any necessary analysis.
-* A detailed description of your mechanical design (CAD images/renderings are appropriate) and any necessary analysis.
-* A detailed description of the firmware design with links to complete source code (GitHub or other repository is helpful).
-* A detailed description of software design with links to complete source code (GitHub or other repository is helpful). Please be sure to include a list of all external software dependencies (eg. OpenCV, Google Voice API, etc.)
-* Photos or videos of your final system in action.
-
+- A high-level summary description of the project’s objectives.
+- An account of how you spent your $250 budget.
+  - You must include all components and materials and their estimated costs (even if you obtained them for free somehow).
+  - Please note where something was obtained for free and the cost is just your best estimate.
+- A data and energy flow diagram that reflects the characteristics of your final design.
+- Additional system diagrams as appropriate.
+  - Include diagrams that your team has made that depict relationships between components of your subsystems.
+    - These may include electronics schematics, CAD renderings, code UML diagrams, and/or hand-drawings that help us understand connections within and between your software, electrical, and mechanical components.
+  - Teams do not need to create new documents at this point, but if any of the example document types have previously been created during the semester, it is helpful to include what you have on the team pages.
+- A detailed description of electrical design (whether you have circuit diagrams or not) and any necessary analysis.
+- A detailed description of your mechanical design (whether you have CAD images/renderings or not) and any necessary analysis.
+- A detailed description of the firmware (e.g., Arduino code) design with links to the complete source code (GitHub or any code repository is helpful).
+- A detailed description of software design (whether you have software architecture drawings or not) with links to the complete source code (GitHub or any code repository is helpful). Please be sure to include a list of all external software dependencies (e.g., OpenCV).
+- Photos or videos of your final system in action.
 
 ## Logistics
 
