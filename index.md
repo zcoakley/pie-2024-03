@@ -30,7 +30,7 @@ Click on a link below to visit the website for that team's project.
 
 [OneWheel](https://olincollege.github.io/pie-2024-03/onewheel)
 
-[PI PIElots](https://olincollege.github.io/pie-2024-03/pie-pielots)
+[PI PIElots](https://olincollege.github.io/pie-2024-03/pi-pielots)
 
 [The Box](https://olincollege.github.io/pie-2024-03/the-box)
 
@@ -42,6 +42,6 @@ Click on a link below to visit the website for that team's project.
 
 [Fortune Teller](https://olincollege.github.io/pie-2024-03/fortune-teller)
 
-[Error 404 - Swish Not Found](https://olincollege.github.io/pie-2024-03/)
+[Error 404 - Swish Not Found](https://olincollege.github.io/pie-2024-03/swish-not-found)
 
 [CyberFlex](https://olincollege.github.io/pie-2024-03/cyberflex)
